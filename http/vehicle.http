@@ -1,0 +1,5 @@
+###
+// Create vehicle
+POST http://{{host}}/vehicle/17704414-c402-4f29-b02b-376da751d911
+
+###
